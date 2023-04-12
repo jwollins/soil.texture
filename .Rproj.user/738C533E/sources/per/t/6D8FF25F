@@ -1,0 +1,27 @@
+{
+    "id": "6D8FF25F",
+    "path": "~/Library/CloudStorage/OneDrive-HarperAdamsUniversity/Data/2022 beans/soil.texture/scripts/data.load.soil.texture.R",
+    "project_path": "scripts/data.load.soil.texture.R",
+    "type": "r_source",
+    "hash": "3441605717",
+    "contents": "",
+    "dirty": false,
+    "created": 1679682811812.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "26,0",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1679685508,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1679685508250,
+    "read_only": false,
+    "read_only_alternatives": []
+}
